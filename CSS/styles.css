@@ -1,0 +1,47 @@
+body {
+  background-color: rgba(130, 133, 133, 0.425) !important;
+}
+
+/* .carousel-item img {
+  height: 100vh;
+} */
+
+h5 {
+  font-size: 4rem !important;
+}
+
+p {
+  font-size: 1.75rem !important;
+}
+
+/* media query css */
+
+@media screen and (max-width: 1024px) {
+  h5 {
+    font-size: 4rem !important;
+  }
+
+  p {
+    font-size: 1.75rem !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h5 {
+    font-size: 1.75rem !important;
+  }
+
+  p {
+    font-size: 1.25rem !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  h5 {
+    font-size: 1.75rem !important;
+  }
+
+  p {
+    font-size: 1.25rem !important;
+  }
+}
